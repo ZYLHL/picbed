@@ -14,6 +14,8 @@ GitHub默认是`https://raw.githubusercontent.com/ZYLHL/picture-src/main/PCL2SET
 上述图像的地址改动之后是`https://cdn.jsdelivr.net/gh/ZYLHL/picture-src@main/PCL2SETTINGS1.png`
 没错，白嫖jsDelivr对GitHub静态文件加速的cdn后，现在就可以无障碍的直接访问到每张图像了。
 具体格式为：
+
 ```
 https://cdn.jsdelivr.net/gh/你的GitHub用户名/你的仓库名@对应分支名/文件相对于分支的相对路径
 ```
+
