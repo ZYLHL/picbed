@@ -1,5 +1,5 @@
 # About this repository
-[Chinese Ver.](./README_CN.md)
+[Chinese Ver.](./README.md)
 
 ------
 
