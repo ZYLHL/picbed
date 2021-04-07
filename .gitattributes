@@ -1,0 +1,6 @@
+*.png linguist-language=javascript
+*.jpg linguist-language=javascript
+*.ico linguist-language=javascript
+*.svg linguist-language=javascript
+*.md linguist-language=html
+*.txt linguist-language=html
