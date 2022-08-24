@@ -1,21 +1,17 @@
-﻿# 关于本目录索引网站
+﻿## Linka's Share Center - Powered By Alist
+<div align="center"><image src="https://pan.linkmc.cloud/d/%E7%BA%BF%E8%B7%AF1%20-%20Singapore/%E5%9B%BE%E7%89%87/linka-hash_W5rvb8VKU2Y4g.jpg" width="128" height="128" /></div>
+<center>🌏 本网站所有文件都存储在<b>微软</b> <b><i>OneDrive for Business</b></i></center>
+<center>存储节点：新加坡</center>
 
----
-👋 这里列出的是 L_inkOO 从其网盘中公开可供下载的文件。  
-🤝 如果你不知道怎么用魔法上网，有些文件在境外的站点下载不下来，也可以联系我帮你下载后放到本索引网站。（联系方式见下）  
-🌏 本网站所有供下载的文件都存储在**微软**家的 ***OneDrive for Business*** (OFB)，分配的是微软在 亚太地区 - 新加坡 的数据中心。下图是从国内访问本站所连接的OFB的路由追踪情况（图片创建于2022年8月16日）  
+ - 线路1 - Singapore：OneDrive 直连（直接下载慢，可通过替换域名提速，将`udjh-my.sharepoint.com`替换为`dl.v2lhl.top`。）
+ - 线路2 - China：即存储在本Web服务器上，从本服务器直接下载（因此仅会存储OneDrive上的一部分文件）
 
-> 如果下载缓慢，可以将"udjh-my.sharepoint.com"替换成"dl.v2lhl.top"，通过优质线路中转下载达到加速的目的。
+<div align="center"><image src="https://s1.ax1x.com/2022/08/16/v0lakQ.jpg" /></div>
 
----
-![china2ofb](https://ghproxy.com/raw.githubusercontent.com/ZYLHL/picbed/main/service-location.jpg)
 
-# 联系我
-
+## 联系我
 📫 邮箱：[zylhl@163.com](mailto:zylhl@163.com)  
 💭 Q群：[957390422](https://jq.qq.com/?_wv=1027&k=d3WbnDwr)  
-📱 手机：18982956818
 
----
 > Written with [StackEdit](https://stackedit.io/). 
 
