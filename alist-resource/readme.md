@@ -1,5 +1,5 @@
 ﻿## Linka's Share Center - Powered By Alist
-<div align="center"><image src="https://pan.linkmc.cloud/d/%E7%BA%BF%E8%B7%AF1%20-%20Singapore/%E5%9B%BE%E7%89%87/linka-hash_W5rvb8VKU2Y4g.jpg" width="128" height="128" /></div>
+<div align="center"><image src="https://blog.linkmc.cloud/images/linka.jpg" width="128" height="128" /></div>
 <center>🌏 本网站所有文件都存储在<b>微软</b> <b><i>OneDrive for Business</b></i></center>
 <center>存储节点：新加坡</center>
 
