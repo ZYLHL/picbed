@@ -8,6 +8,4 @@
 
 <div align="center"><image src="https://s1.ax1x.com/2022/08/16/v0lakQ.jpg" /></div>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=58691zfpu2p&amp;m=0&amp;h=256&amp;c=ff0000&amp;r=0" async="async"></script>
-
 
